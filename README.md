@@ -87,6 +87,3 @@ Requisitos: Python 3.10 o superior. La explicación completa está en el
 Cada avance o corrección se sube como un commit con un mensaje que explica
 qué cambió, para que se pueda ver la evolución del trabajo.
 
-## Autor
-
-Carlos Daniel
