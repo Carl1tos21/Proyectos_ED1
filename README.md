@@ -11,7 +11,7 @@ Aquí se suben las tareas y sus avances, más el proyecto final de la materia.
 
 | Carpeta | Descripción | Estado |
 |---|---|---|
-| `Tareas/01_Listas_Enlazadas` | Lista enlazada simple en Python con ventana gráfica (patrón MVC) | Completo |
+| `Tareas/Listas_Enlazadas` | Lista enlazada simple en Python con ventana gráfica (patrón MVC) | Completo |
 | `Proyecto/Simulador_Logistica_Inteligente` | Simulador de centro logístico con Flet (MVC y estructuras desde cero) | Avance 1 |
 
 ## Estructura del repositorio
@@ -21,8 +21,8 @@ Proyectos_ED1/
 ├── README.md
 ├── .gitignore
 ├── Tareas/
-│   └── 01_Listas_Enlazadas/
-│       ├── README.md              # Explicación completa de la tarea
+│   └── Listas_Enlazadas/
+│       ├── README.md              # Explicación completa
 │       ├── main.py                # Punto de entrada (ventana gráfica)
 │       ├── 01_lista_simple.py      # Versión corta por terminal
 │       ├── modelo/
@@ -42,17 +42,17 @@ Proyectos_ED1/
         └── datos/                 # Pendiente: guardado en JSON
 ```
 
-## Tarea 01: Lista Enlazada Simple
+## Listas Enlazadas
 
 Práctica de listas enlazadas con interfaz gráfica. Se pueden agregar nodos
 al inicio y al final, consultar si un valor existe, quitar un nodo de la
 lista y liberarlo de la memoria.
 
-Cada tarea tiene su propio `README.md` con la explicación detallada.
-Resumen de la tarea 01:
+Cada carpeta tiene su propio `README.md` con la explicación detallada.
+Resumen:
 
 ```bash
-cd Tareas/01_Listas_Enlazadas
+cd Tareas/Listas_Enlazadas
 python3 main.py          # abre la ventana gráfica
 python3 01_lista_simple.py   # versión por terminal
 ```
