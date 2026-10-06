@@ -152,6 +152,3 @@ python3 01_lista_simple.py
 4. Presionar "Borrar de memoria" para liberar el espacio del nodo que
    estaba apartado.
 
-## Autor
-
-Carlos Daniel
